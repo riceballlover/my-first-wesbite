@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+<!DOCTER html><!--必須要有的開頭-->
+<html>
+<head><!--頭--><!--div是一段-->
+     <meta charset="utf-8"></meta>
+     <div style = "font-weight:bold;font-size:60px">個人自我簡介</div>
+</head><!--尾-->
+<body><!-- 網站內容-->
+    <h3>申請人</h3><!--標題-->
+  <p>林冠穎</p>
+	<hr/>
+	<h3>個人簡介</h3><!--標題-->
+   <p>畢業於某國立大學應用數學系，目前正就讀於某師範研究所，對未來發展深感不樂觀，正在全力發展第二專長，努路轉行中，希望未來能在畢業時就就業。(今日，教師聘用多為代理教師，一年一聘/或是半年一聘的那種)，對於穩定工作未來非常沒保障，讓人非常憂心。</p>
+  	<hr/>
+  <h3>為什麼想成為軟體工程師?</h3><!--標題-->
+  <p>大學從數學系畢業後，個人對於未來發展深感茫然，想往數學相關產業發展，如軟體工程師等。</p>
+	<hr/>
+	<h3>為了成為網站工程師，你曾經做過哪些努力?</h3><!--標題-->
+  <p><ul>
+  這題問題最有趣了，基本上可以分成幾個項目條列。
+  <li>1.尋找大學好友，我喜歡跟朋友開zoom進行線上研討，因為本身學校有教學過c/c++/python，會非常基礎的程式語言(尚未到就業的程度)。</li>
+  <li>2.買書，像是ptt網友大推的c++ primer、精通python等。</li>
+  <li>3.嘗試學習leetcode easy，雖然大部分都看不懂...(真是災難...，我跟朋友開zoom就是在討論這個)。</li>
+  <li>4.來自各種資源的付費/免費線上學習影片(appwork school、udemy、yt等</li>
+  </ul></p>
+	<hr/>
+	<h3>對於網站工程師的職業想像是什麼</h3><!--標題-->
+  <p><ul>沒有特殊的想像，基本上可以分成以下條列:
+   <li>1.上班地點有零食餅乾、健身房? </li>
+   <li>2.有未來發展可能的職業。 </li> 
+   <li>3.有持續性學習精進的需求。</li>
+   <li>4.入門/剛進入職場需要耗費大量時間心力去學習。 </li>
+   </ul></p>
+	<hr/>
+	<h3>如果參加這個計畫，你會怎麼安排學習時間?</h3><!--標題
+  <p><ul>本人尚未從研究所畢業，本身會有不定期學術研討會需要參加(頻率約略為隔幾周1次)，會在一周的時間中做出以下安排:一周約為4天全天學習，2天認真處理研究所報告、論文等，最後一天認真學習/或者利用晚上剩餘時間做codereview等。</ul></p>
+	<hr/>
+	<h3>如果參加這個計畫，你預期會碰到哪些困難?你打算怎麼面對?</h3><!--標題-->
+  <p>我覺得完全無法逃避的必然是debug，還記得大學時使用anaconda環境學習python，當時程式語言最最令我印象深刻的是debug，如果我們要用taylor，或使用一些演算法公式計算統整某類資料項目，匯出結果，某部分錯誤可能就會造成極大的結果偏差，有時候為了debug可能得直面電腦很長一段時間(30分以上)或是整段重打等。</p>
+  <p>我覺得這問題根本上在於熟練度的問題，基本上只能多加練習，或是跟同學、老師討論等，或是上google大神查詢</p>
+	<hr/>
+	<h3>想對我們說的事情?</h3><!--標題-->
+  <p>我在ptt看到你們網站的推薦，試著學習你們的初級入門課程，從無到有生成出一個網頁真的很令我感動，而且我發現，至少，在現在網頁設計這一區塊，沒有很多奇奇怪怪的微積分，真的，真的，太讓我高興了，第一次自己手動生成人生的第一份作品，那種感動，不言而喻，來參加此次培訓，主要是希望找到一個方向、引導等。</p>
+	<hr/>
 
-You can use the [editor on GitHub](https://github.com/riceballlover/my-first-wesbite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/riceballlover/my-first-wesbite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>	<!--網站內容-->
+</html> 
